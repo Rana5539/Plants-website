@@ -96,8 +96,9 @@ export default function MediaCard() {
         >
           View all
         </Button>
-        <Divider variant='middle'/>
+        
       </Box>
+      <Divider variant='middle' sx={{mt:4}}/>
     </>
   );
 }

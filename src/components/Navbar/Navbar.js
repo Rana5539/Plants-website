@@ -10,7 +10,7 @@ import './body.css';
 import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
 import InstagramIcon from '@mui/icons-material/Instagram';
 const logo = require('./images/plant.png')
-const pages = ['Home', 'About', 'Contact'];
+const pages = ['Home', 'About', 'Contact', 'Services'];
 function Navbar() {
   const openInstagram = () => {
     // Replace 'your_instagram_username' with your actual Instagram username
